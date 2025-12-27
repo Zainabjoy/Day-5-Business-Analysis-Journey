@@ -1,10 +1,10 @@
 # Day-5-Business-Analysis-Journey
 
-##Transportation &amp; Assignment Problems (Excel)
+## Transportation &amp; Assignment Problems (Excel)
 
-###Transportation Problem
+### Transportation Problem
 
-###A transportation problem focuses on finding the most efficient way to distribute goods from multiple sources (e.g., factories) to multiple destinations (e.g., stores).
+### A transportation problem focuses on finding the most efficient way to distribute goods from multiple sources (e.g., factories) to multiple destinations (e.g., stores).
 
 Key elements:
 
@@ -22,7 +22,7 @@ Demand constraints (shipments ≥ demand)
 
 Objective: minimize total cost or distance
 
-###Solving Transportation Problems in Excel
+### Solving Transportation Problems in Excel
 
 Create a cost table with sources, destinations, supply, and demand.
 
@@ -34,7 +34,7 @@ Use SUMPRODUCT() to calculate total transportation cost.
 
 Solve using Excel Solver (Simplex LP) with supply and demand constraints.
 
-###Assignment Problems
+### Assignment Problems
 
 An assignment problem determines the best one-to-one assignment of agents to tasks (e.g., workers to jobs).
 
@@ -47,7 +47,7 @@ Objective is usually to minimize cost or time
 Assignment problems are a special case of transportation problems where all supplies and demands are equal to 1.
 They are solved in Excel using the same Solver approach.
 
-###Tools Used
+### Tools Used
 
 Microsoft Excel
 
